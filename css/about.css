@@ -1,0 +1,12 @@
+.img-about {
+    /*background-image:url(img/about/about.jpg)*/
+    width: 410px;
+    height: 100%;
+    object-fit: cover;
+}
+
+@media (max-width: 320px) {
+    .img-about {
+        width: 290px;
+    }
+}
