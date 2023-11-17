@@ -215,13 +215,15 @@ h3, .h3 {
 }
 
 .header_area .navbar .nav .nav-item .nav-link {
-  font-family: "Roboto", sans-serif;
+  font-family: "OCRAExtended", OCR A Extended;
   color: #2a2a2a;
   text-transform: capitalize;
   font-weight: 500;
   padding: 33px 0;
   display: inline-block;
+  font-size: 20px
 }
+
 
 .header_area .navbar .nav .nav-item .nav-link:after {
   display: none;
@@ -346,7 +348,7 @@ h3, .h3 {
 }
 
 .header_area.navbar_fixed .main_menu .navbar {
-  background: #7676ff;
+  background: #b4c0f1;
 }
 
 .header_area.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
